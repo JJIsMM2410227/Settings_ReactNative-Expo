@@ -1,0 +1,1 @@
+﻿export const TOGGLE_THEME_MODE = 'TOGGLE_THEME_MODE'
